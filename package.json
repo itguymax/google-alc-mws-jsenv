@@ -46,7 +46,7 @@
     "style-loader": "0.23.1",
     "surge": "0.21.3",
     "webpack": "4.34.0",
-    "webpack-dev-middleware": "3.7.0",
+    "webpack-dev-middleware": "5.3.4",
     "webpack-hot-middleware": "2.25.0",
     "webpack-md5-hash": "0.0.6"
   }
